@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "1.2.0",
+  "isForce": false,
+  "downloadUrl": "https://github.com/你的用户名/你的仓库名/releases/download/v1.2.0/DogBrowser_v1.2.0.apk",
+  "updateLog": "1. 全新磁块顶层控制台与网址搜索\n2. 底层静默修改光猫WiFi\n3. 优化专维测速直发排版"
+}
