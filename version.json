@@ -2,6 +2,6 @@
   "versionCode": 0,
   "versionName": "v0.0.0",
   "isForce": true,
-  "downloadUrl": "https://github.com/yuehanjiao299-cpu/auth-list/releases/download/v2.0.1/app-release.apk",
+  "downloadUrl": "https://github.com/yuehanjiao299-cpu/auth-list/releases/download/v0.0.1/app-release.apk",
   "updateLog": "1. 顶部集成常驻控制栏与多标签管理\n2. 增加网址一键复制与密码嗅探\n3. 优化底层WiFi修改与测速舱"
 }
